@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# BookFinder
+
+A web application made with React JS where you can search for a huge database of books and get details about them.
+We used the **GoogleBooks API** 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
