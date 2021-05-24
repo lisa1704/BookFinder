@@ -1,7 +1,7 @@
 # BookFinder
 
 A web application made with React JS where you can search for a huge database of books and get details about them.
-We used the **GoogleBooks API** 
+The **GoogleBooks API** has been used
 
 
 ## Getting Started with Create React App
